@@ -1,9 +1,8 @@
 # Room7
+
 This is a repository for room 7
 
-
-
-## Group 7 members are:
+## Group 7 members:
 
 1. Paul Talent
 2. Kester Bevin 
@@ -40,6 +39,6 @@ This is a repository for room 7
 # My favourite animal in the jungle
 ![](https://image.shutterstock.com/image-vector/snake-illustration-600w-353435321.jpg)
 
-I am a fan of Manchester United
+# I am a fan of Manchester United
 ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.ebayimg.com%2Fimages%2Fi%2F142041606551-0-1%2Fs-l1000.jpg&f=1&nofb=1)
  
