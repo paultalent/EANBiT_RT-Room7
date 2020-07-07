@@ -25,7 +25,7 @@ This is a repository for room 7
  2. Human Genetics
  3. Toxin Research
  3. Vector Genomics
- 4. Python Programming
+ 
  
 ## Hobbies
  . Swimming
