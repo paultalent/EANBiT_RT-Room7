@@ -41,4 +41,16 @@ This is a repository for room 7
 
 # I am a fan of Manchester United
 ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.ebayimg.com%2Fimages%2Fi%2F142041606551-0-1%2Fs-l1000.jpg&f=1&nofb=1)
+
+
+### Paul Talent
+ 
+ __Institution__ : Makerere University
+ 
+ **Interests** : 
+ 
+ 1. Data Programming
+ 2. Machine Learning and AI
+ 3. Genomic Data Analysis
+
  
