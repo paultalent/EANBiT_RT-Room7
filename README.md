@@ -47,7 +47,7 @@ This is a repository for room 7
  
  __Institution__ : Makerere University
  
- **Research Interest** : 
+ **Interests** : 
  
  1. Data Programming
  2. Machine Learning and AI
