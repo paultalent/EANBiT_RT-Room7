@@ -18,6 +18,8 @@ This is a repository for room 7
  
  __Institution__ : Pwani University
  
+ ## Role: MSC Student
+ 
  **Research Interest** : 
  
  1. Virus Evolution and phylodynamics
